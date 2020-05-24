@@ -239,7 +239,8 @@ footer{
     text-align: center;
 }
 .cent{
- 
-   left: 50%;
+ display: flex;
+   justify-content: center; 
+   align-items: center; 
 }
 
